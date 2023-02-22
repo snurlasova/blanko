@@ -1,0 +1,2 @@
+# blanko
+Desktop adaptive
